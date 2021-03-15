@@ -1,3 +1,3 @@
-module github.com/xblover/tcpip
+module tcpip
 
 go 1.16
